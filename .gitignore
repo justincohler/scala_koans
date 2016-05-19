@@ -1,0 +1,6 @@
+sbtboot/
+ivyrepo/
+.idea
+project/
+target/
+.metadata/
